@@ -4,3 +4,7 @@
 /lib
 /build/
 /.gradle/
+.classpath
+.gitignore
+.project
+.settings
